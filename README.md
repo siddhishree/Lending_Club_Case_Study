@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
@@ -16,12 +15,13 @@ the objective here is to  make a decision for loan approval based on the applica
 The dataset used is attached within the repository named as 'loan.csv'
 
 ## Conclusions
-
+See the attached PDF for drawn conclusions
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 
 ## Contact
 Created by [@siddhishree] - feel free to contact me!
